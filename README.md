@@ -1,2 +1,7 @@
 # udacity_repo
-udacity course github practice
+git add
+git commit
+git push
+
+git commit -a
+git push --force
